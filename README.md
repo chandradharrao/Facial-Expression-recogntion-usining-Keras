@@ -1,2 +1,2 @@
-# Facial-fExpression-recogntion-usining-Keras
+# Facial-Expression-recogntion-usining-Keras
 Ongoing project
